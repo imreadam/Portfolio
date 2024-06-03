@@ -1,0 +1,33 @@
+típus;év;utas;személyzet;utazósebesség;felszállótömeg;fesztáv
+Airbus A300;1972;336;3;44,84;142000;911;Szubszonikus
+Airbus A310;1982;-1;2;43,89;150000;950;Szubszonikus
+Airbus A320;1985;179;2;33,91;66000;950;Szubszonikus
+Antonov An-24;1960;-1;5;29,20;21000;450;Alacsony sebességű
+BAC VC-10;1962;180;4-5;42,70;152000;915;Szubszonikus
+BAe (HS) 748;1960;58;2;31,24;21092;452;Alacsony sebességű
+BAe /BAC/ One-Eleven 475;1967;119;2;28,50;44678;742;Szubszonikus
+BAe 146;1981;-1;2;28,60;42184;709;Szubszonikus
+Boeing 707;1954;-1;2-3;44,42;151315;866;Szubszonikus
+Boeing 727;1962;189;3;32,92;83820;953;Szubszonikus
+Boeing 737;1967;149;2;28,35;52390;856;Szubszonikus
+Boeing 747;1969;516;3;59,64;322050;955;Szubszonikus
+Concorde;1970;144;3;25,56;185065;2179;Szuperszonikus
+DHC-5 Buffalo;1964;40;3;29,26;22316;467;Alacsony sebességű
+DHC-6 Twin Otter;1965;20;1-2;19,81;5670;338;Alacsony sebességű
+DHC-7 Dash 7;1975;54;2;28,35;21319;420;Alacsony sebességű
+DHC-8 Dash 8;1983;40;2;25,91;14968;497;Alacsony sebességű
+Dornier 228;1981;19;2;16,97;6500;428;Alacsony sebességű
+Fokker F27 Friendship;1955;-1;2;29,00;20820;480;Alacsony sebességű
+Fokker F28 Fellowship;1967;85;2-3;25,07;33110;843;Szubszonikus
+Iljusin Il-18 Moszkva;1957;-1;4;35,90;64000;675;Szubszonikus
+Iljusin Il-62;1963;186;5;43,20;162000;820;Szubszonikus
+Iljusin Il-86;1976;-1;3-5;48,06;206000;950;Szubszonikus
+Jakovlev Jak-40;1966;32;2-3;25,00;16000;550;Szubszonikus
+Jakovlev Jak-42;1975;120;2;34,88;54000;810;Szubszonikus
+Lockheed L-1011 Tristar;1970;400;3;47,34;195045;964;Szubszonikus
+McDonnell Douglas DC-8;1958;251;3-5;45,90;251150;965;Szubszonikus
+McDonnell Douglas DC-9;1965;172;2-3;28,47;54885;907;Szubszonikus
+McDonnell Douglas DC-10;1970;345;5;47,34;199580;940;Szubszonikus
+Tupoljev Tu-134;1967;80;3;29,01;47000;870;Szubszonikus
+Tupoljev Tu-144;1968;-1;2;28,80;180000;2500;Szuperszonikus
+Tupoljev Tu-154;1968;169;3;37,55;98000;975;Szubszonikus

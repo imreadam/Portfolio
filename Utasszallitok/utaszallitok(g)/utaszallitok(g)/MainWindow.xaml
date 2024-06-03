@@ -1,0 +1,27 @@
+﻿<Window x:Class="utaszallitok_g_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:utaszallitok_g_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="repülögéptipus" HorizontalAlignment="Left" Margin="28,40,0,0" VerticalAlignment="Top" Width="118"/>
+        <Label Content="első repülés éve" HorizontalAlignment="Left" Margin="28,84,0,0" VerticalAlignment="Top" Width="94"/>
+        <Label Content="utasok száma" HorizontalAlignment="Left" Margin="28,127,0,0" VerticalAlignment="Top" Width="84"/>
+        <Label Content="személyzet létszáma" HorizontalAlignment="Left" Margin="28,172,0,0" VerticalAlignment="Top" Width="118"/>
+        <Label Content="utazósebesség" HorizontalAlignment="Left" Margin="28,220,0,0" VerticalAlignment="Top" Width="118"/>
+        <Label Content="felszállótömeg" HorizontalAlignment="Left" Margin="28,276,0,0" VerticalAlignment="Top" Width="94"/>
+        <Label Content="fesztáv" HorizontalAlignment="Left" Margin="28,330,0,0" VerticalAlignment="Top" Width="84"/>
+        <TextBox x:Name="tbtipus" HorizontalAlignment="Left" Height="22" Margin="162,44,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="218"/>
+        <TextBox x:Name="tbev" HorizontalAlignment="Left" Height="24" Margin="162,84,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="218"/>
+        <TextBox x:Name="tbutasok" HorizontalAlignment="Left" Height="23" Margin="162,127,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="218"/>
+        <TextBox x:Name="tbszemelyzet" HorizontalAlignment="Left" Height="23" Margin="162,172,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="218"/>
+        <TextBox x:Name="tbsebesseg" HorizontalAlignment="Left" Height="23" Margin="162,220,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="218"/>
+        <TextBox x:Name="tbfelszallotomeg" HorizontalAlignment="Left" Height="23" Margin="162,276,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="218"/>
+        <TextBox x:Name="tbfeszttav" HorizontalAlignment="Left" Height="23" Margin="162,330,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="218"/>
+        <Button x:Name="btadatrogzites" Content="Adatrögzités" HorizontalAlignment="Left" Margin="630,362,0,0" VerticalAlignment="Top" Width="135" Height="40" Click="Btadatrogzites_Click"/>
+
+    </Grid>
+</Window>
