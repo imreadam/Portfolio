@@ -1,0 +1,23 @@
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\bin\Debug\etterem.exe.config
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\bin\Debug\etterem.exe
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\bin\Debug\etterem.pdb
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\obj\Debug\etterem.csproj.AssemblyReference.cache
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\obj\Debug\etterem.csproj.SuggestedBindingRedirects.cache
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\obj\Debug\etterem.csproj.CoreCompileInputs.cache
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\obj\Debug\etterem.csproj.CopyComplete
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\obj\Debug\etterem.exe
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\obj\Debug\etterem.pdb
+C:\Users\lajos\Downloads\Borsos Lajos 2023-24\2-14-1 AAF\etlap 02.20\etterem02.20\etterem\etterem\bin\Debug\ConsoleTableExt.dll
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\bin\Debug\etterem.exe.config
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\bin\Debug\etterem.exe
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\bin\Debug\etterem.pdb
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\bin\Debug\ConsoleTableExt.dll
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\obj\Debug\etterem.csprojAssemblyReference.cache
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\obj\Debug\etterem.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\obj\Debug\etterem.csproj.CopyComplete
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\obj\Debug\etterem.exe
+C:\Users\diak\Desktop\etlap 02.26\etterem02.20\etterem\etterem\obj\Debug\etterem.pdb
