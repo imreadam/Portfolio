@@ -1,0 +1,42 @@
+﻿<Window x:Class="fifaranglista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:fifaranglista"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="782">
+            <TabItem Header="Adatok">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="9*"/>
+                        <ColumnDefinition Width="88*"/>
+                    </Grid.ColumnDefinitions>
+                    <ListBox x:Name="listbox" HorizontalAlignment="Left" Height="348" Margin="10,10,0,0" VerticalAlignment="Top" Width="299" Grid.ColumnSpan="2"/>
+                    <Label x:Name="atlaglabel" Content="Átlagpontszám:" HorizontalAlignment="Left" Margin="330.25,11,0,0" VerticalAlignment="Top" Width="224" Grid.Column="1"/>
+                    <Label x:Name="javitocsapat" Content="Legtöbbet javító csapat:" HorizontalAlignment="Left" Margin="330.25,55,0,0" VerticalAlignment="Top" Width="324" Height="108" Grid.Column="1"/>
+                    <Label Content="Keresett Csapat:" HorizontalAlignment="Left" Margin="330.25,168,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1"/>
+                    <TextBox x:Name="kerestb" HorizontalAlignment="Left" Height="43" Margin="480.25,168,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="174" Grid.Column="1"/>
+                    <Label x:Name="keresetnev" Content="Keresett csapat neve:" HorizontalAlignment="Left" Margin="330.25,279,0,0" VerticalAlignment="Top" Width="349" Height="62" Grid.Column="1"/>
+                    <Button x:Name="keresbutton" Content="Keresés" HorizontalAlignment="Left" Margin="567.25,342,0,0" VerticalAlignment="Top" Width="112" Height="39" Click="Keresbutton_Click" Grid.Column="1"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Új adatok">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Csapat neve" HorizontalAlignment="Left" Margin="30,38,0,0" VerticalAlignment="Top" Width="129"/>
+                    <Label Content="Helyezés" HorizontalAlignment="Left" Margin="30,116,0,0" VerticalAlignment="Top" Width="77"/>
+                    <Label Content="Változás" HorizontalAlignment="Left" Margin="30,206,0,0" VerticalAlignment="Top" Width="77"/>
+                    <Label Content="Pontszam" HorizontalAlignment="Left" Margin="30,274,0,0" VerticalAlignment="Top" Width="77"/>
+                    <TextBox x:Name="ujcsapatnevtb" HorizontalAlignment="Left" Height="23" Margin="175,38,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="230"/>
+                    <TextBox x:Name="ujcsapathelyezes" HorizontalAlignment="Left" Height="24" Margin="175,116,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="230"/>
+                    <TextBox x:Name="ujcsapatvaltozas" HorizontalAlignment="Left" Height="23" Margin="175,210,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="230"/>
+                    <TextBox x:Name="ujcsapatpontszam" HorizontalAlignment="Left" Height="22" Margin="175,278,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="230"/>
+                    <Button x:Name="adatrogzites" Content="Adatok rögzitése  fifa.txt-be" HorizontalAlignment="Left" Margin="517,325,0,0" VerticalAlignment="Top" Width="249" Height="38" Click="Adatrogzites_Click"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
